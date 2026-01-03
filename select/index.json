@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "優しいペトリコール",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2026-01-03T14:24:18.264656Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しいペトリコール (feat. hana)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_優しいペトリコール_(feat._hana)_Vivid_Lila.txt"
+    }
+  ]
+}
